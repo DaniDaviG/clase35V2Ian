@@ -1,0 +1,4 @@
+ref() //referencia de un valor
+on()  //escuchar cambios
+readPosition()  //cambio de valor en variables
+showError()   // mostrar errores
